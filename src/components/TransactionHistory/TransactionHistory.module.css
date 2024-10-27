@@ -1,0 +1,27 @@
+table {
+  width: 700px;
+  border: 1px solid black;
+  border-spacing: 0;
+  margin: 0 auto;
+}
+
+.transactionHistory th,
+.transactionHistory td {
+  border: 1px solid #111;
+  padding: 8px;
+  text-align: center;
+}
+
+.table {
+  padding: 15px;
+  color: #f0f8ff;
+  font-weight: 300;
+}
+
+.table_head {
+  background-color: #373a39;
+}
+
+.background {
+  background-color: rgb(193, 193, 196);
+}
